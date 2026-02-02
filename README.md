@@ -9,3 +9,4 @@ Abstract of the tutorial can be found [here](https://icce.org/2026/tutorials/).
 
 ---
 
+The tutorial is all contained within a single Jupyter Notebook file named ids-tutorial.ipynb. This file includes simple explanation of the requirements, code, and dataset.
